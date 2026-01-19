@@ -8,28 +8,25 @@ Features:
 """
 
 import gradio as gr
-import pickle
+import joblib
 import numpy as np
 import pandas as pd
 from pymatgen.core import Composition, Element
 
 # Load all 3 specialized models
 print("Loading models...")
-with open('model_conductivity_optimized.pkl', 'rb') as f:
-    cond_data = pickle.load(f)
-    model_cond = cond_data['model']
-    scaler_cond = cond_data['scaler']
-    feature_cols = cond_data['features']
+cond_data = joblib.load('model_conductivity_optimized.joblib')
+model_cond = cond_data['model']
+scaler_cond = cond_data['scaler']
+feature_cols = cond_data['features']
 
-with open('model_stability_optimized.pkl', 'rb') as f:
-    stab_data = pickle.load(f)
-    model_stab = stab_data['model']
-    scaler_stab = stab_data['scaler']
+stab_data = joblib.load('model_stability_optimized.joblib')
+model_stab = stab_data['model']
+scaler_stab = stab_data['scaler']
 
-with open('model_bandgap_optimized.pkl', 'rb') as f:
-    bg_data = pickle.load(f)
-    model_bg = bg_data['model']
-    scaler_bg = bg_data['scaler']
+bg_data = joblib.load('model_bandgap_optimized.joblib')
+model_bg = bg_data['model']
+scaler_bg = bg_data['scaler']
 
 # Load Pareto-optimal hypotheses
 with open('asa_hypotheses_v2_optimized.json', 'r') as f:
