@@ -1,0 +1,402 @@
+[
+  {
+    "formula": "NaLiTm2F8",
+    "material_id": "mp-1210006",
+    "conductivity": 3.737018275924767,
+    "stability": -3.5888755670729067,
+    "band_gap": 7.2542724609375,
+    "overall_score": 0.9584726047279672
+  },
+  {
+    "formula": "NaLiEr2F8",
+    "material_id": "mp-1209986",
+    "conductivity": 3.6174841286837456,
+    "stability": -3.2885490858945707,
+    "band_gap": 7.560894966125488,
+    "overall_score": 0.9501506867461552
+  },
+  {
+    "formula": "LiLuF4",
+    "material_id": "mp-561430",
+    "conductivity": 3.728712700404418,
+    "stability": -3.3743221850018865,
+    "band_gap": 7.1785078048706055,
+    "overall_score": 0.9456692063869957
+  },
+  {
+    "formula": "NaLiHo2F8",
+    "material_id": "mp-1210003",
+    "conductivity": 3.7348402978637716,
+    "stability": -3.327379809221219,
+    "band_gap": 7.15581750869751,
+    "overall_score": 0.9430124931521989
+  },
+  {
+    "formula": "Li3AlF6",
+    "material_id": "mp-556020",
+    "conductivity": 3.4288313270364044,
+    "stability": -2.843595994929262,
+    "band_gap": 7.990835666656494,
+    "overall_score": 0.9364451095404848
+  },
+  {
+    "formula": "LiYF4",
+    "material_id": "mp-556472",
+    "conductivity": 3.571194809713299,
+    "stability": -3.125020264997598,
+    "band_gap": 7.053863525390625,
+    "overall_score": 0.9228251125993617
+  },
+  {
+    "formula": "Li2SiF6",
+    "material_id": "mp-1193269",
+    "conductivity": 2.8539692662053993,
+    "stability": -2.9085279969160602,
+    "band_gap": 8.236761093139648,
+    "overall_score": 0.9220483794029751
+  },
+  {
+    "formula": "LiYF4",
+    "material_id": "mp-3941",
+    "conductivity": 3.601566499962581,
+    "stability": -2.959064127509031,
+    "band_gap": 7.200093746185303,
+    "overall_score": 0.9217703556603092
+  },
+  {
+    "formula": "LiYF4",
+    "material_id": "mp-3700",
+    "conductivity": 3.7204158379934507,
+    "stability": -2.997828456214732,
+    "band_gap": 6.971654415130615,
+    "overall_score": 0.9208932003887895
+  },
+  {
+    "formula": "Li3AlF6",
+    "material_id": "mp-15254",
+    "conductivity": 3.4308622165539036,
+    "stability": -2.8534750517343705,
+    "band_gap": 7.464850425720215,
+    "overall_score": 0.9185349705521658
+  },
+  {
+    "formula": "LiBF4",
+    "material_id": "mp-12403",
+    "conductivity": 2.860485409127742,
+    "stability": -2.7340481601770055,
+    "band_gap": 8.255794525146484,
+    "overall_score": 0.915065227497057
+  },
+  {
+    "formula": "LiMgAlF6",
+    "material_id": "mp-1193222",
+    "conductivity": 3.4068688619032343,
+    "stability": -3.1248177675073125,
+    "band_gap": 7.0162577629089355,
+    "overall_score": 0.9140699699615418
+  },
+  {
+    "formula": "LiF",
+    "material_id": "mp-1138",
+    "conductivity": 2.9944357343886985,
+    "stability": -2.785974261972677,
+    "band_gap": 7.665554523468018,
+    "overall_score": 0.9027777557425424
+  },
+  {
+    "formula": "LiF",
+    "material_id": "mp-1009009",
+    "conductivity": 2.8913712204620894,
+    "stability": -2.7551074112012794,
+    "band_gap": 7.782512664794922,
+    "overall_score": 0.9008171521489864
+  },
+  {
+    "formula": "Li2CaHfF8",
+    "material_id": "mp-16577",
+    "conductivity": 3.3806138272718984,
+    "stability": -2.7899073804116292,
+    "band_gap": 6.933412551879883,
+    "overall_score": 0.8947262260193011
+  },
+  {
+    "formula": "Li2BF5",
+    "material_id": "mp-1188485",
+    "conductivity": 2.927008917182283,
+    "stability": -2.893850499225033,
+    "band_gap": 7.3212714195251465,
+    "overall_score": 0.8925651984748137
+  },
+  {
+    "formula": "SrLiAlF6",
+    "material_id": "mp-6591",
+    "conductivity": 3.664636105767718,
+    "stability": -3.0741147701507066,
+    "band_gap": 6.104215621948242,
+    "overall_score": 0.8914159626135126
+  },
+  {
+    "formula": "Na3Li4Th6F31",
+    "material_id": "mp-558769",
+    "conductivity": 3.7838821654352177,
+    "stability": -3.5131482237951115,
+    "band_gap": 5.364035129547119,
+    "overall_score": 0.8908318032860926
+  },
+  {
+    "formula": "LiPF6",
+    "material_id": "mp-9143",
+    "conductivity": 2.7953977040574385,
+    "stability": -2.809245694767785,
+    "band_gap": 7.534896373748779,
+    "overall_score": 0.890258459850056
+  },
+  {
+    "formula": "SrLiAlF6",
+    "material_id": "mp-555591",
+    "conductivity": 3.5917367479996334,
+    "stability": -3.055255341440488,
+    "band_gap": 6.104215621948242,
+    "overall_score": 0.8872624862973103
+  },
+  {
+    "formula": "SrLiAlF6",
+    "material_id": "mp-1195827",
+    "conductivity": 3.5373616338021514,
+    "stability": -3.055255341440488,
+    "band_gap": 6.104215621948242,
+    "overall_score": 0.8848050159926503
+  },
+  {
+    "formula": "LiHF2",
+    "material_id": "mp-24199",
+    "conductivity": 2.483890051089011,
+    "stability": -2.380757995491015,
+    "band_gap": 8.130846977233887,
+    "overall_score": 0.8775740076830161
+  },
+  {
+    "formula": "LiHF2",
+    "material_id": "mp-1180580",
+    "conductivity": 2.4745408637656787,
+    "stability": -2.380757995491015,
+    "band_gap": 8.130846977233887,
+    "overall_score": 0.8771514733939597
+  },
+  {
+    "formula": "Li2ZrF6",
+    "material_id": "mp-542219",
+    "conductivity": 3.581051181008245,
+    "stability": -3.0247348343602796,
+    "band_gap": 5.862717151641846,
+    "overall_score": 0.8769178670638619
+  },
+  {
+    "formula": "LiHF2",
+    "material_id": "mp-632672",
+    "conductivity": 2.2432080567840713,
+    "stability": -2.380757995491015,
+    "band_gap": 8.287189483642578,
+    "overall_score": 0.8721810035361738
+  },
+  {
+    "formula": "BaLiAlF6",
+    "material_id": "mp-543044",
+    "conductivity": 3.621266617671619,
+    "stability": -2.8316536746738623,
+    "band_gap": 5.907290935516357,
+    "overall_score": 0.8715066699042192
+  },
+  {
+    "formula": "Li2ZrF6",
+    "material_id": "mp-4002",
+    "conductivity": 3.5624089965272527,
+    "stability": -3.159748570999586,
+    "band_gap": 5.364772796630859,
+    "overall_score": 0.8647553827676973
+  },
+  {
+    "formula": "Na3Li3Sc2F12",
+    "material_id": "mp-14023",
+    "conductivity": 3.428839406465209,
+    "stability": -2.828170283740952,
+    "band_gap": 5.84058952331543,
+    "overall_score": 0.8603114244477675
+  },
+  {
+    "formula": "LiZr5TlF22",
+    "material_id": "mp-2897115",
+    "conductivity": 3.286869546282657,
+    "stability": -3.658581069266143,
+    "band_gap": 4.9450531005859375,
+    "overall_score": 0.8602939658904191
+  },
+  {
+    "formula": "Li2ZrF6",
+    "material_id": "mp-556176",
+    "conductivity": 3.566215733313823,
+    "stability": -3.159748570999586,
+    "band_gap": 5.2153425216674805,
+    "overall_score": 0.8596853378974562
+  },
+  {
+    "formula": "BaLiZr2F11",
+    "material_id": "mp-555845",
+    "conductivity": 3.5748740429715866,
+    "stability": -3.1639619452368493,
+    "band_gap": 5.100587844848633,
+    "overall_score": 0.8562428756700097
+  },
+  {
+    "formula": "LiSmAlF6",
+    "material_id": "mp-8315",
+    "conductivity": 2.8374989674320825,
+    "stability": -2.8541022046176234,
+    "band_gap": 6.399679660797119,
+    "overall_score": 0.8543799307577054
+  },
+  {
+    "formula": "Li3AlF6",
+    "material_id": "mp-1111291",
+    "conductivity": 3.3150800042195083,
+    "stability": -2.822912251694986,
+    "band_gap": 5.807699680328369,
+    "overall_score": 0.8537768719228787
+  },
+  {
+    "formula": "NaLiY2F8",
+    "material_id": "mp-558597",
+    "conductivity": 3.4990908789305126,
+    "stability": -3.0896903520389887,
+    "band_gap": 5.1967244148254395,
+    "overall_score": 0.8528082569721764
+  },
+  {
+    "formula": "KLiDyF5",
+    "material_id": "mp-1211461",
+    "conductivity": 3.7051920186403056,
+    "stability": -2.7128173432899776,
+    "band_gap": 5.2579450607299805,
+    "overall_score": 0.8471088285475594
+  },
+  {
+    "formula": "LiB3O5",
+    "material_id": "mp-3660",
+    "conductivity": 2.7471326386551,
+    "stability": -2.4694800190801898,
+    "band_gap": 6.767100811004639,
+    "overall_score": 0.8456705004326256
+  },
+  {
+    "formula": "LiZr5TlF22",
+    "material_id": "mp-1222537",
+    "conductivity": 3.322100505977568,
+    "stability": -3.3688864280713244,
+    "band_gap": 4.811204433441162,
+    "overall_score": 0.8439988371526796
+  },
+  {
+    "formula": "KLiYF5",
+    "material_id": "mp-1196153",
+    "conductivity": 3.592300362254997,
+    "stability": -2.5886811307980437,
+    "band_gap": 5.337821006774902,
+    "overall_score": 0.8391559645247911
+  },
+  {
+    "formula": "LiTaF6",
+    "material_id": "mp-1206962",
+    "conductivity": 3.2547675674188383,
+    "stability": -2.8415656008744845,
+    "band_gap": 5.403909206390381,
+    "overall_score": 0.8377353256432792
+  },
+  {
+    "formula": "Cs2LiYF6",
+    "material_id": "mp-1110969",
+    "conductivity": 3.3738507309480434,
+    "stability": -2.5580419821737848,
+    "band_gap": 5.590511322021484,
+    "overall_score": 0.8367524639526915
+  },
+  {
+    "formula": "Rb4LiZr3H2F19",
+    "material_id": "mp-557793",
+    "conductivity": 3.150079603044386,
+    "stability": -2.888902322218602,
+    "band_gap": 5.436885356903076,
+    "overall_score": 0.8363163908363402
+  },
+  {
+    "formula": "Rb2LiPrF6",
+    "material_id": "mp-1110652",
+    "conductivity": 3.4550523085156537,
+    "stability": -2.8479527847224926,
+    "band_gap": 5.0094146728515625,
+    "overall_score": 0.833238955574357
+  },
+  {
+    "formula": "Li2B3O4F3",
+    "material_id": "mp-1196457",
+    "conductivity": 2.7466922265449125,
+    "stability": -2.4655521945326675,
+    "band_gap": 6.418132781982422,
+    "overall_score": 0.8332297740610719
+  },
+  {
+    "formula": "Rb2LiCeF6",
+    "material_id": "mp-1110655",
+    "conductivity": 3.452004107147126,
+    "stability": -2.8479527847224926,
+    "band_gap": 5.0094146728515625,
+    "overall_score": 0.8331011928412329
+  },
+  {
+    "formula": "KLiLuF5",
+    "material_id": "mp-1211480",
+    "conductivity": 3.502225138764199,
+    "stability": -2.6928637049646778,
+    "band_gap": 5.139430046081543,
+    "overall_score": 0.832869591232465
+  },
+  {
+    "formula": "LiCaGaF6",
+    "material_id": "mp-12829",
+    "conductivity": 3.351224645298049,
+    "stability": -3.1366978513623027,
+    "band_gap": 4.725069522857666,
+    "overall_score": 0.8317202000087686
+  },
+  {
+    "formula": "RbLi2Be2F7",
+    "material_id": "mp-560518",
+    "conductivity": 3.2602734926446324,
+    "stability": -2.776467949681918,
+    "band_gap": 5.283200263977051,
+    "overall_score": 0.8307852814503301
+  },
+  {
+    "formula": "LiTaF6",
+    "material_id": "mp-1080679",
+    "conductivity": 3.1523358061691527,
+    "stability": -2.8853963331229515,
+    "band_gap": 5.210635662078857,
+    "overall_score": 0.8283217715309691
+  },
+  {
+    "formula": "Na2LiBe2F7",
+    "material_id": "mp-12240",
+    "conductivity": 3.175562598235353,
+    "stability": -2.7295174890521876,
+    "band_gap": 5.356107234954834,
+    "overall_score": 0.8273764115702473
+  },
+  {
+    "formula": "Cs2LiNdF6",
+    "material_id": "mp-1110973",
+    "conductivity": 3.2119552595306153,
+    "stability": -2.523225865258435,
+    "band_gap": 5.5712890625,
+    "overall_score": 0.8271758779983855
+  }
+]
