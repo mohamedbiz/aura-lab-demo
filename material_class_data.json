@@ -1,0 +1,129 @@
+{
+  "material_classes": {
+    "sulfide_electrolytes": {
+      "name": "Sulfide Solid Electrolytes",
+      "typical_temperature_c": 550,
+      "temperature_penalty": 2,
+      "typical_steps": 3,
+      "step_penalty": 1,
+      "equipment_level": "standard",
+      "equipment_penalty": 0,
+      "interface_stability_score": 7,
+      "process_compatibility_score": 4,
+      "scale_demonstration_score": 7
+    },
+    "oxide_electrolytes_garnet": {
+      "name": "Garnet Oxide Electrolytes",
+      "typical_temperature_c": 1100,
+      "temperature_penalty": 4,
+      "typical_steps": 4,
+      "step_penalty": 1,
+      "equipment_level": "specialized",
+      "equipment_penalty": 1,
+      "interface_stability_score": 7,
+      "process_compatibility_score": 4,
+      "scale_demonstration_score": 4
+    },
+    "oxide_electrolytes_perovskite": {
+      "name": "Perovskite Oxide Electrolytes",
+      "typical_temperature_c": 1300,
+      "temperature_penalty": 6,
+      "typical_steps": 4,
+      "step_penalty": 1,
+      "equipment_level": "specialized",
+      "equipment_penalty": 1,
+      "interface_stability_score": 4,
+      "process_compatibility_score": 4,
+      "scale_demonstration_score": 1
+    },
+    "oxide_electrolytes_nasicon": {
+      "name": "NASICON Oxide Electrolytes",
+      "typical_temperature_c": 1000,
+      "temperature_penalty": 4,
+      "typical_steps": 3,
+      "step_penalty": 1,
+      "equipment_level": "standard",
+      "equipment_penalty": 0,
+      "interface_stability_score": 7,
+      "process_compatibility_score": 4,
+      "scale_demonstration_score": 4
+    },
+    "polymer_electrolytes": {
+      "name": "Polymer Electrolytes",
+      "typical_temperature_c": 150,
+      "temperature_penalty": 0,
+      "typical_steps": 2,
+      "step_penalty": 0,
+      "equipment_level": "standard",
+      "equipment_penalty": 0,
+      "interface_stability_score": 7,
+      "process_compatibility_score": 7,
+      "scale_demonstration_score": 7
+    },
+    "layered_cathodes": {
+      "name": "Layered Oxide Cathodes",
+      "typical_temperature_c": 900,
+      "temperature_penalty": 4,
+      "typical_steps": 3,
+      "step_penalty": 1,
+      "equipment_level": "standard",
+      "equipment_penalty": 0,
+      "interface_stability_score": 7,
+      "process_compatibility_score": 10,
+      "scale_demonstration_score": 10
+    },
+    "spinel_cathodes": {
+      "name": "Spinel Cathodes",
+      "typical_temperature_c": 800,
+      "temperature_penalty": 4,
+      "typical_steps": 3,
+      "step_penalty": 1,
+      "equipment_level": "standard",
+      "equipment_penalty": 0,
+      "interface_stability_score": 7,
+      "process_compatibility_score": 10,
+      "scale_demonstration_score": 10
+    },
+    "olivine_cathodes": {
+      "name": "Olivine (LFP-type) Cathodes",
+      "typical_temperature_c": 700,
+      "temperature_penalty": 2,
+      "typical_steps": 3,
+      "step_penalty": 1,
+      "equipment_level": "standard",
+      "equipment_penalty": 0,
+      "interface_stability_score": 10,
+      "process_compatibility_score": 10,
+      "scale_demonstration_score": 10
+    },
+    "default": {
+      "name": "General Lithium Compound",
+      "typical_temperature_c": 700,
+      "temperature_penalty": 2,
+      "typical_steps": 3,
+      "step_penalty": 1,
+      "equipment_level": "standard",
+      "equipment_penalty": 0,
+      "interface_stability_score": 7,
+      "process_compatibility_score": 7,
+      "scale_demonstration_score": 4
+    }
+  },
+  "temperature_penalty_rules": {
+    "lt_400": 0,
+    "400_to_800": 2,
+    "800_to_1200": 4,
+    "gt_1200": 6
+  },
+  "step_penalty_rules": {
+    "1_to_2": 0,
+    "3_to_4": 1,
+    "5_to_6": 2,
+    "gt_6": 3
+  },
+  "equipment_penalty_rules": {
+    "standard": 0,
+    "specialized": 1,
+    "advanced": 2
+  }
+}

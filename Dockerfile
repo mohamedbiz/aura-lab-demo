@@ -16,4 +16,4 @@ COPY . /app/
 EXPOSE 7860
 
 # Run the application
-CMD ["python", "app_v4_final.py"]
+CMD ["python", "app_v5_scalability.py"]

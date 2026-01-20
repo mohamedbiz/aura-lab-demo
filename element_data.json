@@ -1,0 +1,384 @@
+{
+  "elements": {
+    "H": {
+      "name": "Hydrogen",
+      "crustal_abundance_ppm": 1400,
+      "abundance_score": 8,
+      "supply_chain_score": 10,
+      "supply_chain_status": "mature_distributed"
+    },
+    "Li": {
+      "name": "Lithium",
+      "crustal_abundance_ppm": 20,
+      "abundance_score": 4,
+      "supply_chain_score": 7,
+      "supply_chain_status": "mature_concentrated"
+    },
+    "B": {
+      "name": "Boron",
+      "crustal_abundance_ppm": 10,
+      "abundance_score": 4,
+      "supply_chain_score": 7,
+      "supply_chain_status": "mature_distributed"
+    },
+    "C": {
+      "name": "Carbon",
+      "crustal_abundance_ppm": 200,
+      "abundance_score": 6,
+      "supply_chain_score": 10,
+      "supply_chain_status": "mature_distributed"
+    },
+    "N": {
+      "name": "Nitrogen",
+      "crustal_abundance_ppm": 19,
+      "abundance_score": 4,
+      "supply_chain_score": 10,
+      "supply_chain_status": "mature_distributed"
+    },
+    "O": {
+      "name": "Oxygen",
+      "crustal_abundance_ppm": 461000,
+      "abundance_score": 10,
+      "supply_chain_score": 10,
+      "supply_chain_status": "mature_distributed"
+    },
+    "F": {
+      "name": "Fluorine",
+      "crustal_abundance_ppm": 585,
+      "abundance_score": 6,
+      "supply_chain_score": 10,
+      "supply_chain_status": "mature_distributed"
+    },
+    "Na": {
+      "name": "Sodium",
+      "crustal_abundance_ppm": 23600,
+      "abundance_score": 10,
+      "supply_chain_score": 10,
+      "supply_chain_status": "mature_distributed"
+    },
+    "Mg": {
+      "name": "Magnesium",
+      "crustal_abundance_ppm": 23300,
+      "abundance_score": 10,
+      "supply_chain_score": 10,
+      "supply_chain_status": "mature_distributed"
+    },
+    "Al": {
+      "name": "Aluminum",
+      "crustal_abundance_ppm": 82300,
+      "abundance_score": 10,
+      "supply_chain_score": 10,
+      "supply_chain_status": "mature_distributed"
+    },
+    "Si": {
+      "name": "Silicon",
+      "crustal_abundance_ppm": 282000,
+      "abundance_score": 10,
+      "supply_chain_score": 10,
+      "supply_chain_status": "mature_distributed"
+    },
+    "P": {
+      "name": "Phosphorus",
+      "crustal_abundance_ppm": 1050,
+      "abundance_score": 8,
+      "supply_chain_score": 10,
+      "supply_chain_status": "mature_distributed"
+    },
+    "S": {
+      "name": "Sulfur",
+      "crustal_abundance_ppm": 350,
+      "abundance_score": 6,
+      "supply_chain_score": 10,
+      "supply_chain_status": "mature_distributed"
+    },
+    "Cl": {
+      "name": "Chlorine",
+      "crustal_abundance_ppm": 145,
+      "abundance_score": 6,
+      "supply_chain_score": 10,
+      "supply_chain_status": "mature_distributed"
+    },
+    "K": {
+      "name": "Potassium",
+      "crustal_abundance_ppm": 20900,
+      "abundance_score": 10,
+      "supply_chain_score": 10,
+      "supply_chain_status": "mature_distributed"
+    },
+    "Ca": {
+      "name": "Calcium",
+      "crustal_abundance_ppm": 41500,
+      "abundance_score": 10,
+      "supply_chain_score": 10,
+      "supply_chain_status": "mature_distributed"
+    },
+    "Ti": {
+      "name": "Titanium",
+      "crustal_abundance_ppm": 5650,
+      "abundance_score": 8,
+      "supply_chain_score": 10,
+      "supply_chain_status": "mature_distributed"
+    },
+    "V": {
+      "name": "Vanadium",
+      "crustal_abundance_ppm": 120,
+      "abundance_score": 6,
+      "supply_chain_score": 7,
+      "supply_chain_status": "mature_concentrated"
+    },
+    "Cr": {
+      "name": "Chromium",
+      "crustal_abundance_ppm": 102,
+      "abundance_score": 6,
+      "supply_chain_score": 7,
+      "supply_chain_status": "mature_distributed"
+    },
+    "Mn": {
+      "name": "Manganese",
+      "crustal_abundance_ppm": 950,
+      "abundance_score": 8,
+      "supply_chain_score": 10,
+      "supply_chain_status": "mature_distributed"
+    },
+    "Fe": {
+      "name": "Iron",
+      "crustal_abundance_ppm": 56300,
+      "abundance_score": 10,
+      "supply_chain_score": 10,
+      "supply_chain_status": "mature_distributed"
+    },
+    "Co": {
+      "name": "Cobalt",
+      "crustal_abundance_ppm": 25,
+      "abundance_score": 4,
+      "supply_chain_score": 4,
+      "supply_chain_status": "developing"
+    },
+    "Ni": {
+      "name": "Nickel",
+      "crustal_abundance_ppm": 84,
+      "abundance_score": 4,
+      "supply_chain_score": 7,
+      "supply_chain_status": "mature_concentrated"
+    },
+    "Cu": {
+      "name": "Copper",
+      "crustal_abundance_ppm": 60,
+      "abundance_score": 4,
+      "supply_chain_score": 10,
+      "supply_chain_status": "mature_distributed"
+    },
+    "Zn": {
+      "name": "Zinc",
+      "crustal_abundance_ppm": 70,
+      "abundance_score": 4,
+      "supply_chain_score": 10,
+      "supply_chain_status": "mature_distributed"
+    },
+    "Ga": {
+      "name": "Gallium",
+      "crustal_abundance_ppm": 19,
+      "abundance_score": 4,
+      "supply_chain_score": 4,
+      "supply_chain_status": "developing"
+    },
+    "Ge": {
+      "name": "Germanium",
+      "crustal_abundance_ppm": 1.5,
+      "abundance_score": 2,
+      "supply_chain_score": 1,
+      "supply_chain_status": "constrained"
+    },
+    "As": {
+      "name": "Arsenic",
+      "crustal_abundance_ppm": 1.8,
+      "abundance_score": 2,
+      "supply_chain_score": 4,
+      "supply_chain_status": "developing"
+    },
+    "Br": {
+      "name": "Bromine",
+      "crustal_abundance_ppm": 2.4,
+      "abundance_score": 2,
+      "supply_chain_score": 7,
+      "supply_chain_status": "mature_distributed"
+    },
+    "Rb": {
+      "name": "Rubidium",
+      "crustal_abundance_ppm": 90,
+      "abundance_score": 4,
+      "supply_chain_score": 4,
+      "supply_chain_status": "developing"
+    },
+    "Sr": {
+      "name": "Strontium",
+      "crustal_abundance_ppm": 370,
+      "abundance_score": 6,
+      "supply_chain_score": 7,
+      "supply_chain_status": "mature_distributed"
+    },
+    "Y": {
+      "name": "Yttrium",
+      "crustal_abundance_ppm": 33,
+      "abundance_score": 4,
+      "supply_chain_score": 4,
+      "supply_chain_status": "developing"
+    },
+    "Zr": {
+      "name": "Zirconium",
+      "crustal_abundance_ppm": 165,
+      "abundance_score": 6,
+      "supply_chain_score": 7,
+      "supply_chain_status": "mature_distributed"
+    },
+    "Nb": {
+      "name": "Niobium",
+      "crustal_abundance_ppm": 20,
+      "abundance_score": 4,
+      "supply_chain_score": 7,
+      "supply_chain_status": "mature_concentrated"
+    },
+    "Mo": {
+      "name": "Molybdenum",
+      "crustal_abundance_ppm": 1.2,
+      "abundance_score": 2,
+      "supply_chain_score": 7,
+      "supply_chain_status": "mature_distributed"
+    },
+    "Ag": {
+      "name": "Silver",
+      "crustal_abundance_ppm": 0.075,
+      "abundance_score": 0,
+      "supply_chain_score": 7,
+      "supply_chain_status": "mature_distributed"
+    },
+    "Cd": {
+      "name": "Cadmium",
+      "crustal_abundance_ppm": 0.15,
+      "abundance_score": 0,
+      "supply_chain_score": 4,
+      "supply_chain_status": "developing"
+    },
+    "In": {
+      "name": "Indium",
+      "crustal_abundance_ppm": 0.25,
+      "abundance_score": 0,
+      "supply_chain_score": 4,
+      "supply_chain_status": "developing"
+    },
+    "Sn": {
+      "name": "Tin",
+      "crustal_abundance_ppm": 2.3,
+      "abundance_score": 2,
+      "supply_chain_score": 7,
+      "supply_chain_status": "mature_distributed"
+    },
+    "Sb": {
+      "name": "Antimony",
+      "crustal_abundance_ppm": 0.2,
+      "abundance_score": 0,
+      "supply_chain_score": 4,
+      "supply_chain_status": "developing"
+    },
+    "I": {
+      "name": "Iodine",
+      "crustal_abundance_ppm": 0.45,
+      "abundance_score": 0,
+      "supply_chain_score": 7,
+      "supply_chain_status": "mature_distributed"
+    },
+    "Cs": {
+      "name": "Cesium",
+      "crustal_abundance_ppm": 3.0,
+      "abundance_score": 2,
+      "supply_chain_score": 4,
+      "supply_chain_status": "developing"
+    },
+    "Ba": {
+      "name": "Barium",
+      "crustal_abundance_ppm": 425,
+      "abundance_score": 6,
+      "supply_chain_score": 7,
+      "supply_chain_status": "mature_distributed"
+    },
+    "La": {
+      "name": "Lanthanum",
+      "crustal_abundance_ppm": 39,
+      "abundance_score": 4,
+      "supply_chain_score": 4,
+      "supply_chain_status": "developing"
+    },
+    "Ce": {
+      "name": "Cerium",
+      "crustal_abundance_ppm": 66.5,
+      "abundance_score": 4,
+      "supply_chain_score": 4,
+      "supply_chain_status": "developing"
+    },
+    "Nd": {
+      "name": "Neodymium",
+      "crustal_abundance_ppm": 41.5,
+      "abundance_score": 4,
+      "supply_chain_score": 4,
+      "supply_chain_status": "developing"
+    },
+    "Hf": {
+      "name": "Hafnium",
+      "crustal_abundance_ppm": 3.0,
+      "abundance_score": 2,
+      "supply_chain_score": 4,
+      "supply_chain_status": "developing"
+    },
+    "Ta": {
+      "name": "Tantalum",
+      "crustal_abundance_ppm": 2.0,
+      "abundance_score": 2,
+      "supply_chain_score": 1,
+      "supply_chain_status": "constrained"
+    },
+    "W": {
+      "name": "Tungsten",
+      "crustal_abundance_ppm": 1.25,
+      "abundance_score": 2,
+      "supply_chain_score": 7,
+      "supply_chain_status": "mature_concentrated"
+    },
+    "Pt": {
+      "name": "Platinum",
+      "crustal_abundance_ppm": 0.005,
+      "abundance_score": 0,
+      "supply_chain_score": 4,
+      "supply_chain_status": "developing"
+    },
+    "Au": {
+      "name": "Gold",
+      "crustal_abundance_ppm": 0.004,
+      "abundance_score": 0,
+      "supply_chain_score": 7,
+      "supply_chain_status": "mature_distributed"
+    },
+    "Bi": {
+      "name": "Bismuth",
+      "crustal_abundance_ppm": 0.0085,
+      "abundance_score": 0,
+      "supply_chain_score": 4,
+      "supply_chain_status": "developing"
+    }
+  },
+  "scoring_rules": {
+    "crustal_abundance": {
+      "gt_10000": 10,
+      "1000_to_10000": 8,
+      "100_to_1000": 6,
+      "10_to_100": 4,
+      "1_to_10": 2,
+      "lt_1": 0
+    },
+    "supply_chain": {
+      "mature_distributed": 10,
+      "mature_concentrated": 7,
+      "developing": 4,
+      "constrained": 1
+    }
+  }
+}
